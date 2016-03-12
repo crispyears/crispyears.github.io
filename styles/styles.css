@@ -1,0 +1,39 @@
+
+
+body {
+	text-align: center;
+	background-color: rgb(198;198;198);
+	border-top: 5px solid black; 
+	border-bottom: 5px solid black;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+p {
+	text-align: center;
+}
+
+img {
+	border: 1px solid black; 
+	height: 35%;
+	float: right;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+hr {
+	width: 70%;
+}
+
+
+
+
+
